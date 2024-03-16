@@ -25,4 +25,4 @@
 
 ## Wireframe of `Techium` project
 
-1[wireframe](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T140627Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42ccbc563c7936bf9e0d41b9a3f9872096f6ed43ed017f6480d9f9023a5b52ca)
+![wireframe](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T140627Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42ccbc563c7936bf9e0d41b9a3f9872096f6ed43ed017f6480d9f9023a5b52ca)
